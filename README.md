@@ -1,4 +1,5 @@
 Hospital Management Program
+
 A handcrafted, console-based Hospital Management System that enables streamlined management of doctors, patients, schedules, and administrative functions. Built in C/C++ with a visually enhanced, menu-driven interface, this program is designed for both functionality and presentation.
 
 Features
